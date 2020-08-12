@@ -8,4 +8,5 @@ class ChattyStudent
     10.times do 
     puts "Pick me!"
   end 
+end
 end 
